@@ -1,4 +1,4 @@
-class Fl < Formula
+class FlashNotify < Formula
   desc "Flash macOS menu bar when commands complete"
   homepage "https://github.com/shunsuke1980/flash_notify"
   url "https://github.com/shunsuke1980/flash_notify/archive/v1.0.0.tar.gz"
